@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Petter
 
-Estou iniciando os estudos em Design e Desenvolvimento! 
+Estou iniciando em Design e Desenvolvimento! 
 
 #### *"Design é a visualização criativa e sistemática dos processos de interação e das mensagens de diferente atores sociais"* - Beat Scheneider
 
