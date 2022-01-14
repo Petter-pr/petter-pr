@@ -10,6 +10,10 @@ Entusiasta e comunicativo, amo “abraçar o mundo”, mas alguns desafios pesso
 ### **Perspectivas**
 Estudando fundamentos de desenvolvimento, interagindo com o ecossistema de programação, me ambientando e descobrindo como e onde atuar nesse multiverso tech! 
 
+### **Em Desenvolvimento**
+Development: Full Stack Programing
+DesignOps | Customer Success Manager | User Experience
+
 ## **Estudando**
 ### Algoritmo e Linguagem de Programação!
 ### Java | Microserviços
