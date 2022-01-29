@@ -15,8 +15,8 @@ Development: Full Stack Programing
 DesignOps | Customer Success Manager | User Experience
 
 ## **Estudando**
-### Algoritmo e Linguagem de Programação!
-### Java | Microserviços
+### Desenvolvimento Web
+### HTML5 | CSS3 | Bootstrap
 
 <!--
 **Petter-pr/petter-pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
