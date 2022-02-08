@@ -16,7 +16,7 @@ DesignOps | Customer Success Manager | User Experience
 
 ## **Estudando**
 ### Desenvolvimento Web
-### HTML5 | CSS3 | Bootstrap
+### HTML5 | CSS3 | Javascript
 
 <!--
 **Petter-pr/petter-pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
